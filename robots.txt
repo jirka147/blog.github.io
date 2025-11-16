@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jirka147.github.io/sitemap.xml
